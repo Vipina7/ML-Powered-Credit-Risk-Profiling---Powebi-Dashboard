@@ -59,7 +59,7 @@ This project aims to identify high-risk credit card customers using a Random For
 ---
 
 ## 📁 Folder Structure
-
+<pre><code>```markdown
 /CreditCard-Default-Risk/
 ├── data
     ├── credit_default_risk_dashboard.csv
@@ -75,7 +75,7 @@ This project aims to identify high-risk credit card customers using a Random For
 ├── PowerBI_Dashboard.pbix
 ├── README.md
 └── requirements.txt
-
+```</code></pre>
 ---
 ## 📎 License
 
