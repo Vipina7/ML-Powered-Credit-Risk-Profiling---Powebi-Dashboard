@@ -68,6 +68,10 @@ This project aims to identify high-risk credit card customers using a Random For
     ├── home.png
     ├── private-detective.png
     ├── risk-management.png
+├── images
+    ├── credit_risk_overview.png
+    ├── customer_risk_overview.png
+    ├── top_risk_drivers.png
 ├── PowerBI_Dashboard.pbix
 ├── README.md
 └── requirements.txt
