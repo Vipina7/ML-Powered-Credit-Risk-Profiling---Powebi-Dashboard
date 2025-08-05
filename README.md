@@ -4,6 +4,13 @@ This project aims to identify high-risk credit card customers using a Random For
 
 ---
 
+## 📊 Dashboard Preview
+
+![Credit Risk Overview](images/credit_risk_overview.png)
+![Top Risk Drivers Analysis](images/top_risk_drivers.png)
+![Customer Risk Drilldown](images/customer_risk_overview.png)
+
+
 ## 🚀 Project Overview
 
 - **Dataset**: 30,000 credit card customer records (including repayment history, credit limit, education, marital status, etc.)
