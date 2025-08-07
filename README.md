@@ -1,4 +1,4 @@
-# 🧾 Credit Card Default Risk Analysis and Dashboard
+# 🧾 SwipeRisk: Credit Card Default & Risk Dashboard
 
 This project aims to identify high-risk credit card customers using a Random Forest model, and present key insights through an interactive Power BI dashboard to support data-driven credit risk strategies.
 
@@ -80,4 +80,5 @@ This project aims to identify high-risk credit card customers using a Random For
 ## 📎 License
 
 This project is for academic and demonstration purposes only.  
+
 Feel free to fork and customize for your own case studies or portfolios.
